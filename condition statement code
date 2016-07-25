@@ -1,0 +1,2 @@
+n=int(input().split())
+print ("weird" if((n%2==0 and (n<20 or n in range(2,5))) else "not weird"
